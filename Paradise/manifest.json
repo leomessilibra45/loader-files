@@ -1,0 +1,9 @@
+{"driver":"Paradise","files":[
+  {"sh":"5.10-Pixel.ko.sh"},
+  {"sh":"5.10.ko.sh"},
+  {"sh":"5.15-Pixel.ko.sh"},
+  {"sh":"5.15.ko.sh"},
+  {"sh":"6.1.ko.sh"},
+  {"sh":"6.12.ko.sh"},
+  {"sh":"6.6.ko.sh"}
+]}
